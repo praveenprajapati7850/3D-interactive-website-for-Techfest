@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 2026 — IIT Bombay",
+  "description": "Techfest 2026 IIT Bombay 30th Edition — Welcome to the Simulated Paradigm. Asia's largest science and technology festival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
